@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @janitto
-- 👀 I’m interested in computer vision in Python (openCV) and in cryptocurrencies.
+- 👀 I’m interested in computer vision in Python (**openCV**) and in **cryptocurrencies**.
 - 🌱 I’m currently learning openCV
 - 💞️ I’m looking to collaborate on computer vision programs, crypto trading automation.
 - 📫 How to reach me jstroemp@gmail.com
